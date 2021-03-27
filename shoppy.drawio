@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T16:12:34.048Z" agent="5.0 (Windows)" etag="O82fOwS7H3zBO61lTauH" version="14.5.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-27T21:26:38.888Z" agent="5.0 (Macintosh)" etag="t9AALr4D1dx6i9fGbEBH" version="14.5.3" type="github" pages="4">
   <diagram id="S8S6S_zs-tFYUFydIni0" name="Page-1">
-    <mxGraphModel dx="2512" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2241" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lwpKW712aM4c5S9FHlkD-142" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="325" y="180" width="200" height="390" as="geometry" />
+        </mxCell>
         <mxCell id="WBAK2P9Rp_MF3gCQEYfs-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="120" width="200" height="390" as="geometry" />
         </mxCell>
@@ -175,7 +178,7 @@
         <mxCell id="lwpKW712aM4c5S9FHlkD-13" value="main, dessert" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=17;align=center;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="89.5" y="890" width="161" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lwpKW712aM4c5S9FHlkD-14" value="Ingredients" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=17;align=center;sketch=1;" parent="1" vertex="1">
+        <mxCell id="lwpKW712aM4c5S9FHlkD-14" value="cusine" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=17;align=center;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="89.5" y="920" width="161" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lwpKW712aM4c5S9FHlkD-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=17;sketch=1;" parent="1" source="lwpKW712aM4c5S9FHlkD-17" target="lwpKW712aM4c5S9FHlkD-21" edge="1">
@@ -273,9 +276,6 @@
         </mxCell>
         <mxCell id="lwpKW712aM4c5S9FHlkD-141" value="edit the list by tapping on the inputs" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=17;align=center;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="970" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="lwpKW712aM4c5S9FHlkD-142" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="325" y="180" width="200" height="390" as="geometry" />
         </mxCell>
         <mxCell id="lwpKW712aM4c5S9FHlkD-143" value="Shopping lists" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Lucida Console;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="335" y="220" width="180" height="30" as="geometry" />
@@ -415,11 +415,20 @@
         <mxCell id="lwpKW712aM4c5S9FHlkD-192" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=1;" parent="lwpKW712aM4c5S9FHlkD-190" vertex="1">
           <mxGeometry x="110" width="50" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="SOoSq4ruoh9onEI2pAPY-12" value="Ingredients" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=17;align=center;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="89" y="950" width="161" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JJDql05510NPb_NE8KQe-1" value="account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=9;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="505" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JJDql05510NPb_NE8KQe-2" value="account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=9;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1065" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="jZCyjlfQMn0yyW2t85NQ" name="screen org">
-    <mxGraphModel dx="2374" dy="1090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1043" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="qdwxyIsfag_vkfbrn5gM-0" />
         <mxCell id="qdwxyIsfag_vkfbrn5gM-1" parent="qdwxyIsfag_vkfbrn5gM-0" />
@@ -489,7 +498,7 @@
         <mxCell id="AH-SVHP-QE3kMJ4q8TXV-3" value="TAKE PHOTO screen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=20;" parent="qdwxyIsfag_vkfbrn5gM-1" vertex="1">
           <mxGeometry x="790" y="580" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9F2ljhVIJpy1S83PPJ---0" value="splash screen/ null screen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=20;" vertex="1" parent="qdwxyIsfag_vkfbrn5gM-1">
+        <mxCell id="9F2ljhVIJpy1S83PPJ---0" value="splash screen/ null screen" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=0;fontSize=20;" parent="qdwxyIsfag_vkfbrn5gM-1" vertex="1">
           <mxGeometry x="130" y="50" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
